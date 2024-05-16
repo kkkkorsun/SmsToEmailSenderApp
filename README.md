@@ -1,4 +1,4 @@
-# SmsSenderApp
+# SmsToEmailSenderApp
 
 SmsSenderApp is a basic Android application that reads all SMS messages from your phone and forwards them to a specified email address. This app is especially useful for large teams of developers and testers who need to quickly receive messages with codes or other information from phones. This is a basic version of the app, and you can extend it to suit your needs as desired.
 
